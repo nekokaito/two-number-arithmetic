@@ -1,2 +1,4 @@
 # two-number-arithmetic
-Program name: Two Number's Arithmetic, Version 1.0.3, While the function is ('''+,-,x,/, positive, negative and even or odd detector''').
+Program name: Two Number's Arithmetic, Version 1.0.3, While the functions are:
+Plus, minus, multiply, division, positive and negative detector.
+I also add the octal feature.
